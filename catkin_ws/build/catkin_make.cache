@@ -1,0 +1,2 @@
+Assignment_2:beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/siddhesh/siddhesh-project/-AuE893Spring20_SiddheshBagkar/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/siddhesh/siddhesh-project/-AuE893Spring20_SiddheshBagkar/catkin_ws/install -G Unix Makefiles
